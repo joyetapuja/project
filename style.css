@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#form-part{
+    background-color: black;
+
+}
+.billing-border{
+    border: 5px solid  rgb(82, 77, 77);
+}
+    
+    
+    
+    
